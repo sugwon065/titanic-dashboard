@@ -1,0 +1,1 @@
+{"features": [{"feature": "Title", "importance": 0.756044}, {"feature": "Pclass", "importance": 0.298631}, {"feature": "Sex", "importance": 0.243387}, {"feature": "Fare", "importance": 0.159276}, {"feature": "Embarked", "importance": 0.148186}, {"feature": "FamilySize", "importance": 0.135538}, {"feature": "Age", "importance": 0.070076}]}

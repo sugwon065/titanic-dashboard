@@ -1,0 +1,5 @@
+{
+  "model": "CatBoost",
+  "accuracy": 0.8209,
+  "auc_roc": 0.8743
+}
